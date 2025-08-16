@@ -22,7 +22,7 @@ const affectionateMessages = [
   "You have this incredible way of making everything better 🌈",
   "Your just being online just makes my day 🌌",
   "You're my favorite person in the entire world 💝",
-  "Your presence alone makes me feel like today is going to be a good day🕊️",
+  "Your presence alone makes me feel like today is going to be a good day 🕊️",
   "Your manifestation wanted you to manifest them too ☁️",
   "Your heart is pure, even though that brain is as filthy as it gets 💛",
   "You make me believe in fairy tales again, especially when the mermaid was dripping wet 😫",
