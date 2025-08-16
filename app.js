@@ -3,6 +3,12 @@
 // Collection of flirtatious and affectionate messages
 const affectionateMessages = [
   "You're the sparkle in my day, beautiful 💫",
+  "You must be tired, maybe you could rest both legs on my shoulder and I massage you 💦", 
+  "If I could rearrange the alphabet, I’d put U and I together 😏", 
+  "You light up my world brighter than my phone screen ✨", 
+  "You're as red as the roses you deserve to get 🌹", 
+  "You're the cream you make me ooze, the sugar you taste like, the butter I want to spread you like 🧈", 
+  "You’re proof that not all angels have wings, some get wet when we call them Princess 💖",
   "Every moment with you feels like magic ✨",
   "Your smile could light up the entire universe 🌟",
   "You're not just amazing, you're absolutely enchanting 💖",
